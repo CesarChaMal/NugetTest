@@ -1,0 +1,2 @@
+nuget list packageid:newtonsoft.json -Source https://api.nuget.org/v3/index.json
+nuget install newtonsoft.json -Source https://api.nuget.org/v3/index.json
